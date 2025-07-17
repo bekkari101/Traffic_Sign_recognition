@@ -1,0 +1,8 @@
+*.pt
+*.pth
+*.zip
+*.h5
+*.ckpt
+*.pt !text !filter !merge !diff
+*.pth !text !filter !merge !diff
+*.zip !text !filter !merge !diff
